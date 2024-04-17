@@ -1,0 +1,12 @@
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\bin\Debug\Programacion_II.exe.config
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\bin\Debug\Programacion_II.exe
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\bin\Debug\Programacion_II.pdb
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.csproj.AssemblyReference.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.csproj.SuggestedBindingRedirects.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.Form1.resources
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.Properties.Resources.resources
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.csproj.GenerateResource.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.csproj.CoreCompileInputs.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.exe
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.pdb
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Programacion_IIsln\Programacion_II\obj\Debug\Programacion_II.Form2.resources
